@@ -1,0 +1,9 @@
+{
+  "name": "name",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.13.4",
+    "mongoose": "4.5.0",
+    "cors": "2.7.1"
+  }
+}
